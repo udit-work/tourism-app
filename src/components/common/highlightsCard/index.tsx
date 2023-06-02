@@ -20,11 +20,11 @@ export const HighlightsCard = ({
                     {description}
                 </Description>
                 <CtaLayout>
-                    <CTAButton>
-                        <Link to={`/activities/${title}`}>
+                    <Link to={`/activities/${title}`}>
+                        <CTAButton>
                             <img src={arrowRightIcon} />
-                        </Link>
-                    </CTAButton>
+                        </CTAButton>
+                    </Link>
                 </CtaLayout>
             </ContentLayout>
         </CardLayout>

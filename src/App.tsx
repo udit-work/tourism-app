@@ -5,7 +5,7 @@ import {
 
 const App = () => {
   return (
-    <Router>
+    <Router basename='/tourism-app'>
       <LandingPage />
     </Router>
   );
