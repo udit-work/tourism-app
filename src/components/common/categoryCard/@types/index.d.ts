@@ -1,0 +1,3 @@
+interface ICategoriesCardProps {
+    title: string
+}
