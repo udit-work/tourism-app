@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tourism-app/static/css/main.e6c13ad2.css",
+    "main.js": "/tourism-app/static/js/main.1882fe4f.js",
+    "static/js/491.ab14fdd9.chunk.js": "/tourism-app/static/js/491.ab14fdd9.chunk.js",
+    "static/js/606.a982fdd1.chunk.js": "/tourism-app/static/js/606.a982fdd1.chunk.js",
+    "static/js/503.17d5808c.chunk.js": "/tourism-app/static/js/503.17d5808c.chunk.js",
+    "static/js/983.c47e4c83.chunk.js": "/tourism-app/static/js/983.c47e4c83.chunk.js",
+    "static/js/787.00b08029.chunk.js": "/tourism-app/static/js/787.00b08029.chunk.js",
+    "static/media/Image.png": "/tourism-app/static/media/Image.0c87ef37cb331aaba687.png",
+    "static/media/avtar.png": "/tourism-app/static/media/avtar.53b8ba94042f260a8c1e.png",
+    "index.html": "/tourism-app/index.html",
+    "main.e6c13ad2.css.map": "/tourism-app/static/css/main.e6c13ad2.css.map",
+    "main.1882fe4f.js.map": "/tourism-app/static/js/main.1882fe4f.js.map",
+    "491.ab14fdd9.chunk.js.map": "/tourism-app/static/js/491.ab14fdd9.chunk.js.map",
+    "606.a982fdd1.chunk.js.map": "/tourism-app/static/js/606.a982fdd1.chunk.js.map",
+    "503.17d5808c.chunk.js.map": "/tourism-app/static/js/503.17d5808c.chunk.js.map",
+    "983.c47e4c83.chunk.js.map": "/tourism-app/static/js/983.c47e4c83.chunk.js.map",
+    "787.00b08029.chunk.js.map": "/tourism-app/static/js/787.00b08029.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1882fe4f.js"
+  ]
+}
