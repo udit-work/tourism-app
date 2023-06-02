@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktourism_app=self.webpackChunktourism_app||[]).push([[983],{3983:function(n,e,i){i.r(e),i.d(e,{default:function(){return d}});var t,r=i(1087),s=i(168),u=i(173),a=i(6444).ZP.div(t||(t=(0,s.Z)(["\nmargin: ",";\n"])),u.tq?"0 16px":"40px 188px"),c=i(184),d=function(){return(0,c.jsxs)(a,{children:[(0,c.jsx)("div",{children:"Something Went Wrong"}),(0,c.jsxs)("div",{children:["Kindly navigate to the ",(0,c.jsx)(r.rU,{to:"/",children:"Home Page"})]})]})}}}]);
+//# sourceMappingURL=983.c47e4c83.chunk.js.map
